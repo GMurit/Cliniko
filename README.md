@@ -1,4 +1,5 @@
 # 🩺 Clíniko
+
 **Aplicación web para citas médicas entre pacientes y profesionales sanitarios.**
 
 Clíniko es un proyecto desarrollado como parte final del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
@@ -78,8 +79,9 @@ cliniko/
 ## 📬 Autor
 
 **F.J Muriel Orta**
-📚 *Proyecto final del módulo de Desarrollo de Aplicaciones Web (DAW)*  
-📅 Curso académico 2025 – 2026
+*Proyecto final del módulo de Desarrollo de Aplicaciones Web (DAW)*  
+Curso académico 2025 – 2026
+
 
 
 

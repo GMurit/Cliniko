@@ -2,8 +2,8 @@
 
 **Aplicación web para citas médicas entre pacientes y profesionales sanitarios.**
 
-Clíniko es un proyecto desarrollado como parte final del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
-Su objetivo es ofrecer una plataforma digital que facilite la **comunicación entre pacientes y médicos**, permitiendo gestionar citas médicas, historiales, valoraciones y notificaciones de forma sencilla y segura.
+Clíniko es un proyecto desarrollado como parte final del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW).  
+Su objetivo es ofrecer una plataforma digital que facilite la comunicación entre pacientes y médicos, permitiendo gestionar citas médicas, historiales, valoraciones y notificaciones de forma sencilla y segura.
 
 ---
 
@@ -35,27 +35,27 @@ cliniko/
 
 | Rol | Descripción | Permisos principales |
 |-----|--------------|----------------------|
-| **Paciente** | Usuario que solicita atención médica. | Solicitar, modificar o cancelar citas; valorar médicos; recibir notificaciones por correo. |
-| **Médico** | Profesional que ofrece atención sanitaria. | Gestionar citas, consultar historiales, recibir valoraciones, establecer disponibilidad. |
-| **Administrador** | Responsable del sistema. | Gestionar usuarios, supervisar valoraciones, controlar correos y configuración general. |
+| Paciente | Usuario que solicita atención médica. | Solicitar, modificar o cancelar citas; valorar médicos; recibir notificaciones por correo. |
+| Médico | Profesional que ofrece atención sanitaria. | Gestionar citas, consultar historiales, recibir valoraciones, establecer disponibilidad. |
+| Administrador | Responsable del sistema. | Gestionar usuarios, supervisar valoraciones, controlar correos y configuración general. |
 
 ---
 
 ## ⚙️ Funcionalidades clave
 
-- Gestión completa de **citas médicas (CRUD)**.  
-- Sistema de **roles y permisos diferenciados**.  
-- Envío de **notificaciones automáticas por correo electrónico**.  
-- Uso de **AJAX** en procesos interactivos (validación de disponibilidad, carga dinámica).  
-- **Listados con filtros y paginación**.  
-- **Validaciones en frontend y backend**.  
-- Diseño **responsive** mediante Bootstrap.
+- Gestión completa de citas médicas (CRUD).  
+- Sistema de roles y permisos diferenciados.  
+- Envío de notificaciones automáticas por correo electrónico.  
+- Uso de AJAX en procesos interactivos (validación de disponibilidad, evitar carga completa de la web).  
+- Listados con filtros y paginación.  
+- **Validaciones en frontend y backend.  
+- Diseño responsive mediante Bootstrap.
 
 ---
 
 ## 💾 Tecnologías utilizadas
 
-- **PHP** (backend y lógica de la aplicación)  
+- <u>PHP</u> (backend y lógica de la aplicación)  
 - **MySQL** con  **MySQL Query Browser** (gestor de base de datos)  
 - **HTML5, CSS3 y Bootstrap** (interfaz de usuario)  
 - **AJAX / JavaScript** (interactividad y UX)  
@@ -81,6 +81,7 @@ cliniko/
 **F.J Muriel Orta**
 *Proyecto final del módulo de Desarrollo de Aplicaciones Web (DAW)*  
 Curso académico 2025 – 2026
+
 
 
 

@@ -33,7 +33,7 @@ cliniko/
 ```
 ## 👥 Roles y permisos
 
-| Rol | Descripción | Permisos principales |
+| Rol | Descripción | Permisos |
 |-----|--------------|----------------------|
 | Paciente | Usuario que solicita atención médica. | Solicitar, modificar o cancelar citas; valorar médicos; recibir notificaciones por correo. |
 | Médico | Profesional que ofrece atención sanitaria. | Gestionar citas, consultar historiales, recibir valoraciones, establecer disponibilidad. |
@@ -48,7 +48,7 @@ cliniko/
 - Envío de notificaciones automáticas por correo electrónico.  
 - Uso de AJAX en procesos interactivos (validación de disponibilidad, evitar carga completa de la web).  
 - Listados con filtros y paginación.  
-- **Validaciones en frontend y backend.  
+- Validaciones en frontend y backend.  
 - Diseño responsive mediante Bootstrap.
 
 ---
@@ -56,19 +56,19 @@ cliniko/
 ## 💾 Tecnologías utilizadas
 
 - <u>PHP</u> (backend y lógica de la aplicación)  
-- **MySQL** con  **MySQL Query Browser** (gestor de base de datos)  
-- **HTML5, CSS3 y Bootstrap** (interfaz de usuario)  
-- **AJAX / JavaScript** (interactividad y UX)  
-- **XAMPP** (gestor de servidor local)  
-- **Git y GitHub** (control de versiones y repositorio)  
-- **Trello** (seguimiento de tareas y metodología ágil)
+- MySQL con  MySQL Query Browser (gestor de base de datos)  
+- HTML5, CSS3 y Bootstrap** (interfaz de usuario)  
+- AJAX / JavaScript (interactividad y UX)  
+- XAMPP (gestor de servidor local)  
+  Git y GitHub (control de versiones y repositorio)  
+- Trello (seguimiento de tareas y metodología ágil)
 
 ---
 
 ## 🧩 Estado del proyecto
 
 🔹 **Fase actual:** Estructura de carpetas seguiendo el MVC y documentación inicial completadas.  
-🔹 **Próximas fases:**  
+🔹 **Próximas tareas:**  
 - Implementación de la base de datos.  
 - Desarrollo de controladores y modelos.  
 - Creación de las vistas.  
@@ -78,9 +78,10 @@ cliniko/
 
 ## 📬 Autor
 
-**F.J Muriel Orta**
+F.J Muriel Orta
 *Proyecto final del módulo de Desarrollo de Aplicaciones Web (DAW)*  
 Curso académico 2025 – 2026
+
 
 
 

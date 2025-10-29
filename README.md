@@ -9,7 +9,7 @@ Su objetivo es ofrecer una plataforma digital que facilite la **comunicación en
 ## 🧱 Estructura del proyecto (Modelo – Vista – Controlador)
 
 La aplicación sigue el patrón **MVC (Modelo – Vista – Controlador)** para mantener una arquitectura organizada, escalable y fácil de mantener.
-
+```
 cliniko/
 ├── aplicacion/                # Toda la lógica en relación al funcionamiento de la aplicación web.
 │   ├── configuracion/         # Configuraciones globales y constantes (ej. conexión a la base de datos).
@@ -29,7 +29,7 @@ cliniko/
 ├── documentos/                # Documentación, diagramas, tareas, etc.
 ├── README.md                  # Información detallada del proyecto.
 └── .gitignore                 # Archivos necesarios para subir carpetas vacías
-
+```
 ## 👥 Roles y permisos
 
 | Rol | Descripción | Permisos principales |
@@ -80,4 +80,5 @@ cliniko/
 **F.J Muriel Orta**
 📚 *Proyecto final del módulo de Desarrollo de Aplicaciones Web (DAW)*  
 📅 Curso académico 2025 – 2026
+
 

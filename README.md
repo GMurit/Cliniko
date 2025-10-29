@@ -54,11 +54,11 @@ cliniko/
 
 ## 💾 Tecnologías utilizadas
 
-- **PHP** (backend y lógica de negocio)  
+- **PHP** (backend y lógica de la aplicación)  
 - **MySQL** con  **MySQL Query Browser** (gestor de base de datos)  
 - **HTML5, CSS3 y Bootstrap** (interfaz de usuario)  
 - **AJAX / JavaScript** (interactividad y UX)  
-- **XAMPP** (entorno de desarrollo local)  
+- **XAMPP** (gestor de servidor local)  
 - **Git y GitHub** (control de versiones y repositorio)  
 - **Trello** (seguimiento de tareas y metodología ágil)
 
@@ -66,12 +66,12 @@ cliniko/
 
 ## 🧩 Estado del proyecto
 
-🔹 **Fase actual:** Estructura base y documentación inicial completadas.  
+🔹 **Fase actual:** Estructura de carpetas seguiendo el MVC y documentación inicial completadas.  
 🔹 **Próximas fases:**  
 - Implementación de la base de datos.  
 - Desarrollo de controladores y modelos.  
-- Creación de las vistas dinámicas.  
-- Pruebas funcionales y despliegue local.
+- Creación de las vistas.  
+- Pruebas funcionales y despliegue local para comprobar el correcto funcionamiento.
 
 ---
 
@@ -80,5 +80,6 @@ cliniko/
 **F.J Muriel Orta**
 📚 *Proyecto final del módulo de Desarrollo de Aplicaciones Web (DAW)*  
 📅 Curso académico 2025 – 2026
+
 
 

@@ -1,4 +1,4 @@
-# 🩺 Clíniko
+# Clíniko
 
 **Aplicación web para citas médicas entre pacientes y profesionales sanitarios.**
 
@@ -7,7 +7,7 @@ Su objetivo es ofrecer una plataforma digital que facilite la comunicación entr
 
 ---
 
-## 🧱 Estructura del proyecto (Modelo – Vista – Controlador)
+## Estructura del proyecto (Modelo – Vista – Controlador)
 
 La aplicación sigue el patrón **MVC (Modelo – Vista – Controlador)** para mantener una arquitectura organizada, escalable y fácil de mantener.
 ```
@@ -31,13 +31,12 @@ cliniko/
 ├── README.md                  # Información detallada del proyecto.
 └── .gitignore                 # Archivos necesarios para subir carpetas vacías
 ```
-## 👥 Roles y permisos
+## Roles y permisos
 
-| Rol | Descripción | Permisos |
-|-----|--------------|----------------------|
-| Paciente | Usuario que solicita atención médica. | Solicitar, modificar o cancelar citas; valorar médicos; recibir notificaciones por correo. |
-| Médico | Profesional que ofrece atención sanitaria. | Gestionar citas, consultar historiales, recibir valoraciones, establecer disponibilidad. |
-| Administrador | Responsable del sistema. | Gestionar usuarios, supervisar valoraciones, controlar correos y configuración general. |
+
+Paciente -> Usuario que solicita atención médica -> Solicitar, modificar o cancelar citas; valorar médicos; recibir notificaciones por correo. 
+Médico -> Profesional que ofrece atención sanitaria -> Gestionar citas, consultar historiales, recibir valoraciones, establecer disponibilidad. 
+Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valoraciones, controlar correos y configuración general. 
 
 ---
 
@@ -65,7 +64,7 @@ cliniko/
 
 ---
 
-## 🧩 Estado del proyecto
+## Estado del proyecto
 
 🔹 **Fase actual:** Estructura de carpetas seguiendo el MVC y documentación inicial completadas.  
 🔹 **Próximas tareas:**  
@@ -76,11 +75,6 @@ cliniko/
 
 ---
 
-## 📬 Autor
-
-F.J Muriel Orta
-*Proyecto final del módulo de Desarrollo de Aplicaciones Web (DAW)*  
-Curso académico 2025 – 2026
 
 
 

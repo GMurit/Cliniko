@@ -1,0 +1,33 @@
+body {
+  background-color: #e7e597ff;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #6bd6a1 !important;
+}
+
+.contenedor {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.centrado-texto {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.boton-cuadrado:hover {
+    background-color: #6bd6a1 !important;
+    transition: background-color 0.3s ease;
+}
+
+.barra-navegacion {
+  margin-bottom: 20px;
+}
+
+.pie-pagina {
+  margin-top: 50px;
+  padding: 20px 0;
+}

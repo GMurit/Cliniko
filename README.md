@@ -42,25 +42,25 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 
 ## Funcionalidades clave
 
-- Gestión completa de citas médicas (CRUD).  
-- Sistema de roles y permisos diferenciados.  
-- Envío de notificaciones automáticas por correo electrónico.  
-- Uso de AJAX en procesos interactivos (validación de disponibilidad, evitar carga completa de la web).  
-- Listados con filtros y paginación.  
-- Validaciones en frontend y backend.  
-- Diseño responsive mediante Bootstrap.
+-> Gestión completa de citas médicas (CRUD).  
+-> Sistema de roles y permisos diferenciados.  
+-> Envío de notificaciones automáticas por correo electrónico.  
+-> Uso de AJAX en procesos interactivos (validación de disponibilidad, evitar carga completa de la web).  
+-> Listados con filtros y paginación.  
+-> Validaciones en frontend y backend.  
+-> Diseño responsive mediante Bootstrap.
 
 ---
 
 ## Tecnologías utilizadas
 
-- <u>PHP</u> (backend y lógica de la aplicación)  
-- MySQL con  MySQL Query Browser (gestor de base de datos)  
-- HTML5, CSS3 y Bootstrap** (interfaz de usuario)  
-- AJAX / JavaScript (interactividad y UX)  
-- XAMPP (gestor de servidor local)  
+-> <u>PHP</u> (backend y lógica de la aplicación)  
+-> MySQL con  MySQL Query Browser (gestor de base de datos)  
+-> HTML5, CSS3 y Bootstrap** (interfaz de usuario)  
+-> AJAX / JavaScript (interactividad y UX)  
+-> XAMPP (gestor de servidor local)  
   Git y GitHub (control de versiones y repositorio)  
-- Trello (seguimiento de tareas y metodología ágil)
+-> Trello (seguimiento de tareas y metodología ágil)
 
 ---
 
@@ -68,12 +68,13 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 
 Fase actual: Estructura de carpetas seguiendo el MVC y documentación inicial completadas.  
 Próximas tareas:  
-- Implementación de la base de datos.  
-- Desarrollo de controladores y modelos.  
-- Creación de las vistas.  
-- Pruebas funcionales y despliegue local para comprobar el correcto funcionamiento.
+-> Implementación de la base de datos.  
+-> Desarrollo de controladores y modelos.  
+-> Creación de las vistas.  
+-> Pruebas funcionales y despliegue local para comprobar el correcto funcionamiento.
 
 ---
+
 
 
 

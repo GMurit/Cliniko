@@ -40,7 +40,7 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 
 ---
 
-## ⚙️ Funcionalidades clave
+## Funcionalidades clave
 
 - Gestión completa de citas médicas (CRUD).  
 - Sistema de roles y permisos diferenciados.  
@@ -52,7 +52,7 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 
 ---
 
-## 💾 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - <u>PHP</u> (backend y lógica de la aplicación)  
 - MySQL con  MySQL Query Browser (gestor de base de datos)  
@@ -74,6 +74,7 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 - Pruebas funcionales y despliegue local para comprobar el correcto funcionamiento.
 
 ---
+
 
 
 

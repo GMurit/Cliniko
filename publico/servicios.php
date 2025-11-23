@@ -16,7 +16,7 @@
                     <div class="card-body">
                         <h5 class="card-titulo" style="color: #047857;">Gestión de citas</h5>
                         <p class="card-text">
-                            Solicita, modifica o cancela tus citas médicas de manera sencilla y rápida.
+                            ¡Solicita, modifica o cancela tus citas médicas de manera sencilla!
                         </p>
                     </div>
                 </div>
@@ -25,9 +25,9 @@
             <div class="col-md-4 mb-4">
                 <div class="card h-100 text-center">
                     <div class="card-body">
-                        <h5 class="card-titulo" style="color: #047857;">Historial médico digital</h5>
+                        <h5 class="card-titulo" style="color: #047857;">Historiales médicos</h5>
                         <p class="card-text">
-                            Consulta tu historial médico y tus valoraciones en cualquier momento.
+                            ¡Consulta tu historial médico desde tu perfil!
                         </p>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                     <div class="card-body">
                         <h5 class="card-titulo" style="color: #047857;">Notificaciones por correo</h5>
                         <p class="card-text">
-                            Recibe avisos importantes directamente en tu correo.
+                            ¡Recibe avisos importantes directamente en tu correo!
                         </p>
                     </div>
                 </div>

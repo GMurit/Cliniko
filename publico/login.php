@@ -7,7 +7,7 @@
         <p class="descripcion-secundaria mt-3" style="color: #111111;">
             ¿Eres paciente o médico?
         </p>
-<!--EL ARCHIVO LOGIN-CONTROLADOR.PHP LO TENGO CREADO PERO VACÍO. SOLO LO CREÉ POR TENER LA REFERENCIA AQUÍ PUESTA PERO NO LO HE SUBIDO PORQUE ME PARECÍA ABSURDO-->
+<!--LOS ARCHIVOS LOGIN-CONTROLADOR.PHP Y REGISTRO.PHP LOS TENGO CREADOS PERO VACÍOS. SOLO LOS CREÉ POR TENER LA REFERENCIA AQUÍ PUESTA PERO NO LOS HE SUBIDO PORQUE ME PARECÍA ABSURDO-->
         <form action="../aplicacion/controladores/login-controlador.php" method="POST" class="mt-4" style="max-width: 400px; margin: 0 auto;">
             <div class="mb-3">
                 <label for="email" class="form-label">Correo electrónico</label>

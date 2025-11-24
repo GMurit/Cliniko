@@ -42,38 +42,22 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 
 ## Funcionalidades clave
 
--> Gestión completa de citas médicas (CRUD).  
--> Sistema de roles y permisos diferenciados.  
--> Envío de notificaciones automáticas por correo electrónico.  
--> Uso de AJAX en procesos interactivos (validación de disponibilidad, evitar carga completa de la web).  
--> Listados con filtros y paginación.  
--> Validaciones en frontend y backend.  
--> Diseño responsive mediante Bootstrap.
+Gestión completa de citas médicas (CRUD), sistema de roles y permisos diferenciados, envío de notificaciones automáticas por correo electrónico, uso de AJAX en procesos de carga de página, listados con filtros y paginación, validaciones en frontend y backend y diseño responsive mediante Bootstrap.
 
 ---
 
 ## Tecnologías utilizadas
 
--> PHP
--> MySQL con  MySQL Query Browser
--> HTML5, CSS3 y Bootstrap
--> AJAX / JavaScript
--> XAMPP
-  Git y GitHub
--> Trello
+PHP, MySQL con  MySQL Query Browser para la base de datos, HTML5, CSS3 y Bootstrap, AJAX en javaScript, Xampp, Git con GitHub y trello
 
 ---
 
 ## Estado del proyecto
 
-Fase actual: Estructura de carpetas seguiendo el MVC y documentación inicial completadas.  
-Próximas tareas:  
--> Implementación de la base de datos.  
--> Desarrollo de controladores y modelos.  
--> Creación de las vistas.  
--> Pruebas funcionales y despliegue local para comprobar el correcto funcionamiento.
+El proyecto se encuentra en desarrollo aún.
 
 ---
+
 
 
 

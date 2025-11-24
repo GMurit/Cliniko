@@ -10,7 +10,7 @@ Su objetivo es ofrecer una plataforma digital que facilite la comunicación entr
 ## Estructura del proyecto (Modelo – Vista – Controlador)
 
 La aplicación sigue el patrón MVC (Modelo – Vista – Controlador) para mantener una arquitectura organizada, escalable y fácil de mantener.
-
+---
 cliniko/
 ├── aplicacion/                # Toda la lógica en relación al funcionamiento de la aplicación web.
 │   ├── configuracion/         # Configuraciones globales y constantes (ej. conexión a la base de datos).
@@ -31,6 +31,7 @@ cliniko/
 ├── README.md                  # Información detallada del proyecto.
 └── .gitignore                 # Archivos necesarios para subir carpetas vacías
 ```
+---
 ## Roles y permisos
 
 

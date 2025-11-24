@@ -22,13 +22,13 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 
 ## Funcionalidades clave
 
--> Gestión completa de citas médicas (CRUD).  
--> Sistema de roles y permisos diferenciados.  
--> Envío de notificaciones automáticas por correo electrónico.  
--> Uso de AJAX en procesos interactivos (validación de disponibilidad, evitar carga completa de la web).  
--> Listados con filtros y paginación.  
--> Validaciones en frontend y backend.  
--> Diseño responsive mediante Bootstrap.
+Gestión completa de citas médicas (CRUD).  
+Sistema de roles.  
+Envío de notificaciones por correo electrónico.  
+Uso de AJAX en operaciones de recarga de la página. 
+Listados con filtros y paginación.  
+Validaciones en frontend y backend.  
+Diseño responsive con Bootstrap.
 
 ---
 
@@ -49,6 +49,7 @@ Trello
 El proyecto está en desarrollo.
 
 ---
+
 
 
 

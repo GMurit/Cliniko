@@ -6,10 +6,30 @@ Clíniko es un proyecto desarrollado como parte final del Ciclo Formativo de Gra
 Su objetivo es ofrecer una plataforma digital que facilite la comunicación entre pacientes y médicos, permitiendo gestionar citas médicas, historiales, valoraciones y notificaciones de forma sencilla y segura.
 
 
-
 ## Estructura del proyecto (Modelo – Vista – Controlador)
 
 La aplicación sigue la estructura de carpetas del MVC (Modelo – Vista – Controlador) para mantener la organización.
+
+Carpetas:
+  cliniko/
+      aplicacion/
+      configuracion/
+      controladores/
+      modelos/
+      vistas/
+          paciente/
+          medico/
+          administrador/
+          plantillas/
+      publico/
+          css/
+          js/
+          img/
+          index.php
+          (otras páginas publicas como las páginas informativas de servicios, qué             es cliniko, login, etc.)
+      base_datos/
+      documentos/
+      README.md
 
 ## Roles y permisos
 
@@ -35,6 +55,7 @@ PHP, mysql con  Mysql Query Browser para la base de datos, HTML5, CSS3 y Bootstr
 ## Estado del proyecto
 
 El proyecto está en desarrollo.
+
 
 
 

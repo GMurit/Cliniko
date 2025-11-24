@@ -54,13 +54,13 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 
 ## Tecnologías utilizadas
 
--> <u>PHP</u> (backend y lógica de la aplicación)  
--> MySQL con  MySQL Query Browser (gestor de base de datos)  
--> HTML5, CSS3 y Bootstrap** (interfaz de usuario)  
--> AJAX / JavaScript (interactividad y UX)  
--> XAMPP (gestor de servidor local)  
-  Git y GitHub (control de versiones y repositorio)  
--> Trello (seguimiento de tareas y metodología ágil)
+-> PHP
+-> MySQL con  MySQL Query Browser
+-> HTML5, CSS3 y Bootstrap
+-> AJAX / JavaScript
+-> XAMPP
+  Git y GitHub
+-> Trello
 
 ---
 
@@ -74,6 +74,7 @@ Próximas tareas:
 -> Pruebas funcionales y despliegue local para comprobar el correcto funcionamiento.
 
 ---
+
 
 
 

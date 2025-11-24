@@ -31,31 +31,6 @@ cliniko/
 ├── README.md                  # Información detallada del proyecto.
 └── .gitignore                 # Archivos necesarios para subir carpetas vacías
 ```
----
-## Roles y permisos
-
-
-Paciente -> Usuario que solicita atención médica -> Solicitar, modificar o cancelar citas; valorar médicos; recibir notificaciones por correo. 
-Médico -> Profesional que ofrece atención sanitaria -> Gestionar citas, consultar historiales, recibir valoraciones, establecer disponibilidad. 
-Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valoraciones, controlar correos y configuración general. 
-
-
-
-## Funcionalidades clave
-
-Gestión completa de citas médicas (CRUD), sistema de roles y permisos diferenciados, envío de notificaciones automáticas por correo electrónico, uso de AJAX en procesos de carga de página, listados con filtros y paginación, validaciones en frontend y backend y diseño responsive mediante Bootstrap.
-
-
-
-## Tecnologías utilizadas
-
-PHP, MySQL con  MySQL Query Browser para la base de datos, HTML5, CSS3 y Bootstrap, AJAX en javaScript, Xampp, Git con GitHub y trello
-
-
-
-## Estado del proyecto
-
-El proyecto se encuentra en desarrollo aún.
 
 
 

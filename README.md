@@ -9,7 +9,7 @@ Su objetivo es ofrecer una plataforma digital que facilite la comunicación entr
 
 ## Estructura del proyecto (Modelo – Vista – Controlador)
 
-La aplicación sigue el patrón MVC (Modelo – Vista – Controlador) para mantener una estructura organizada.
+La aplicación sigue la estructura de carpetas del MVC (Modelo – Vista – Controlador) para mantener la organización.
 
 ## Roles y permisos
 
@@ -35,6 +35,7 @@ PHP, mysql con  Mysql Query Browser para la base de datos, HTML5, CSS3 y Bootstr
 ## Estado del proyecto
 
 El proyecto está en desarrollo.
+
 
 
 

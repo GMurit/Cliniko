@@ -10,27 +10,7 @@ Su objetivo es ofrecer una plataforma digital que facilite la comunicación entr
 ## Estructura del proyecto (Modelo – Vista – Controlador)
 
 La aplicación sigue el patrón MVC (Modelo – Vista – Controlador) para mantener una arquitectura organizada, escalable y fácil de mantener.
-```
-cliniko/
-├── aplicacion/                # Toda la lógica en relación al funcionamiento de la aplicación web.
-│   ├── configuracion/         # Configuraciones globales y constantes (ej. conexión a la base de datos).
-│   ├── controladores/         # Lógica de la web que seguirán los modelos.
-│   ├── modelos/               # Aquí va cada una de las entidades de la base de datos.
-│   └── vistas/                # Interfaces (HTML, Bootstrap).
-│       ├── paciente/          # Vistas del paciente.
-│       ├── medico/            # Vistas del médico.
-│       ├── administrador/     # Vistas del administrador.
-│       └── plantillas/        # Cabecera, pie, menús comunes.
-├── publico/                   # Carpeta accesible desde el navegador
-│   ├── css/                   # Hojas de estilo de la web.
-│   ├── js/                    # Scripts de JavaScript y AJAX.
-│   ├── img/                   # Imágenes que se vayan a usar.
-│   └── index.php              # Aún no se ha creado.
-├── base_datos/                # Script SQL del proyecto (cliniko.sql)
-├── documentos/                # Documentación, diagramas, tareas, etc.
-├── README.md                  # Información detallada del proyecto.
-└── .gitignore                 # Archivos necesarios para subir carpetas vacías
-```
+
 ## Roles y permisos
 
 
@@ -54,26 +34,22 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 
 ## Tecnologías utilizadas
 
--> <u>PHP</u> (backend y lógica de la aplicación)  
--> MySQL con  MySQL Query Browser (gestor de base de datos)  
--> HTML5, CSS3 y Bootstrap** (interfaz de usuario)  
--> AJAX / JavaScript (interactividad y UX)  
--> XAMPP (gestor de servidor local)  
-  Git y GitHub (control de versiones y repositorio)  
--> Trello (seguimiento de tareas y metodología ágil)
+PHP
+MySQL con  MySQL Query Browser 
+HTML5, CSS3 y Bootstrap
+AJAX / JavaScript 
+XAMPP
+Git y GitHub 
+Trello
 
 ---
 
 ## Estado del proyecto
 
-Fase actual: Estructura de carpetas seguiendo el MVC y documentación inicial completadas.  
-Próximas tareas:  
--> Implementación de la base de datos.  
--> Desarrollo de controladores y modelos.  
--> Creación de las vistas.  
--> Pruebas funcionales y despliegue local para comprobar el correcto funcionamiento.
+El proyecto está en desarrollo.
 
 ---
+
 
 
 

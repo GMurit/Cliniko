@@ -9,7 +9,7 @@ Su objetivo es ofrecer una plataforma digital que facilite la comunicación entr
 
 ## Estructura del proyecto (Modelo – Vista – Controlador)
 
-La aplicación sigue el patrón MVC (Modelo – Vista – Controlador) para mantener una arquitectura organizada, escalable y fácil de mantener.
+La aplicación sigue el patrón MVC (Modelo – Vista – Controlador) para mantener una estructura organizada.
 
 ## Roles y permisos
 
@@ -47,6 +47,7 @@ Trello
 ## Estado del proyecto
 
 El proyecto está en desarrollo.
+
 
 
 

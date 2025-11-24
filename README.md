@@ -12,12 +12,9 @@ La aplicación sigue la estructura de carpetas del MVC (Modelo – Vista – Con
 
 Roles y permisos
 
-
 El usuario paciente  es el usuario que solicita atención médica y puede solicitar, modificar o cancelar citas o valorar médicos y recibir notificaciones por correo. 
 El usuario médico es el usuario que ofrece atención sanitaria y puede gestionar sus citas, consultar historiales y recibir valoraciones.
 El usuarioa administrador es el usuario encargaado de mantener el funcionamiento del sistema y puede gestionar usuarios, supervisar valoraciones y la configuración general de la web.
-
-
 
 ## Funcionalidades clave
 
@@ -34,6 +31,7 @@ PHP, mysql con  Mysql Query Browser para la base de datos, HTML5, CSS3 y Bootstr
 ## Estado del proyecto
 
 El proyecto está en desarrollo.
+
 
 
 

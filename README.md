@@ -28,9 +28,10 @@ PHP, mysql con  Mysql Query Browser para la base de datos, HTML5, CSS3 y Bootstr
 
 
 
-# Estado del proyecto
+<u>Estado del proyecto</u>
 
 El proyecto está en desarrollo.
+
 
 
 

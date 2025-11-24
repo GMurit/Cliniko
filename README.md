@@ -5,7 +5,7 @@ Aplicación web para citas médicas entre pacientes y profesionales sanitarios.
 Clíniko es un proyecto desarrollado como parte final del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW).  
 Su objetivo es ofrecer una plataforma digital que facilite la comunicación entre pacientes y médicos, permitiendo gestionar citas médicas, historiales, valoraciones y notificaciones de forma sencilla y segura.
 
----
+
 
 ## Estructura del proyecto (Modelo – Vista – Controlador)
 
@@ -38,7 +38,7 @@ Paciente -> Usuario que solicita atención médica -> Solicitar, modificar o can
 Médico -> Profesional que ofrece atención sanitaria -> Gestionar citas, consultar historiales, recibir valoraciones, establecer disponibilidad. 
 Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valoraciones, controlar correos y configuración general. 
 
----
+
 
 ## Funcionalidades clave
 
@@ -50,7 +50,7 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
 -> Validaciones en frontend y backend.  
 -> Diseño responsive mediante Bootstrap.
 
----
+
 
 ## Tecnologías utilizadas
 
@@ -62,7 +62,7 @@ Administrador -> Responsable del sistema -> Gestionar usuarios, supervisar valor
   Git y GitHub (control de versiones y repositorio)  
 -> Trello (seguimiento de tareas y metodología ágil)
 
----
+
 
 ## Estado del proyecto
 
@@ -73,7 +73,8 @@ Próximas tareas:
 -> Creación de las vistas.  
 -> Pruebas funcionales y despliegue local para comprobar el correcto funcionamiento.
 
----
+
+
 
 
 

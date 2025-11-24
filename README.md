@@ -10,7 +10,7 @@ Su objetivo es ofrecer una plataforma digital que facilite la comunicación entr
 
 La aplicación sigue la estructura de carpetas del MVC (Modelo – Vista – Controlador) para mantener la organización.
 
-## Roles y permisos
+Roles y permisos
 
 
 El usuario paciente  es el usuario que solicita atención médica y puede solicitar, modificar o cancelar citas o valorar médicos y recibir notificaciones por correo. 
@@ -34,6 +34,7 @@ PHP, mysql con  Mysql Query Browser para la base de datos, HTML5, CSS3 y Bootstr
 ## Estado del proyecto
 
 El proyecto está en desarrollo.
+
 
 
 

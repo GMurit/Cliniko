@@ -1,4 +1,4 @@
-# Clíniko
+Clíniko
 
 Aplicación web para citas médicas entre pacientes y médicos.
 
@@ -28,9 +28,10 @@ PHP, mysql con  Mysql Query Browser para la base de datos, HTML5, CSS3 y Bootstr
 
 
 
-<u>Estado del proyecto</u>
+Estado del proyecto
 
 El proyecto está en desarrollo.
+
 
 
 

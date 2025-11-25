@@ -23,7 +23,7 @@
     <div class="contenedor">
         <h2 class="titulo-accion" style="color: #047857;">¡Únete ahora!</h2>
         <p class="descripcion-accion mt-3" style="color: #111111;">
-            Regístrate como paciente o médico y empieza a gestionar tus citas de forma eficiente y segura.
+            ¡Regístrate como paciente o médico y empieza ahora!
         </p>
         <a href="registro.php" class="btn boton-cuadrado mt-3" style="background-color: #047857; color:white;">Registrarse</a>
     </div>

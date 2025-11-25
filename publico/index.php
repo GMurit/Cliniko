@@ -5,9 +5,8 @@
     <div class="container">
         <h1 class="display-4" style="color: #047857;">Bienvenido a Clíniko</h1>
         <p class="lead" style="color: #111111;">
-            La plataforma que conecta pacientes y médicos de forma rápida, segura y sencilla.
-            Gestiona tus citas y historiales médicos desde cualquier lugar. Además, podrás dejarnos que piensas
-            sobre la antención.
+            La plataforma que conecta pacientes y médicos a distancia.
+            Gestiona tus citas y historiales médicos desde cualquier lugar. Además, valorar la atención recibida.
         </p>
     </div>
 </section>
@@ -17,8 +16,8 @@
     <div class="contenedor">
         <h2 class="titulo-secundario" style="color: #047857;">¿Qué es Clíniko?</h2>
         <p class="descripcion-secundaria mt-3" style="color: #111111;">
-            Clíniko es una aplicación web que permite a pacientes solicitar citas médicas de forma fácil y segura, 
-            y a los médicos gestionar su agenda y consultas desde cualquier lugar.
+            Clíniko es una aplicación web que permite a pacientes solicitar citas médicas en cualquier momento, 
+            y a los médicos atender a cualquier persona que lo solicite.
         </p>
     </div>
 </section>
@@ -28,7 +27,7 @@
     <div class="contenedor">
         <h2 class="titulo-accion" style="color: #047857;">¡Únete ahora!</h2>
         <p class="descripcion-accion mt-3" style="color: #111111;">
-            Regístrate como paciente o médico y comienza a gestionar tus citas de forma sencilla.
+           ¡Regístrate como paciente o médico!
         </p>
         <a href="registro.php" class="btn boton-cuadrado mt-3" style="background-color: #047857; color:white;">Registrarse</a>
     </div>
